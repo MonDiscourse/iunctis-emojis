@@ -25,3 +25,5 @@ register_emoji "mott", "/plugins/iunctis-emojis/images/tristesse/mott.gif"
 register_emoji "romo", "/plugins/iunctis-emojis/images/tristesse/romo.png"
 register_emoji "sadboy", "/plugins/iunctis-emojis/images/tristesse/sadboy.gif"
 register_emoji "sarko", "/plugins/iunctis-emojis/images/tristesse/sarko.png"
+
+register_asset 'stylesheets/iunctis-emojis.scss'
