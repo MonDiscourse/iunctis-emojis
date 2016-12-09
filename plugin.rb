@@ -9,6 +9,7 @@ enabled_site_setting :emoji_enabled
 register_emoji "blam", "/plugins/iunctis-emojis/images/tristesse/blam.gif"
 register_emoji "calme", "/plugins/iunctis-emojis/images/tristesse/calme.gif"
 register_emoji "chirac", "/plugins/iunctis-emojis/images/tristesse/chirac.png"
+register_emoji "emo", "/plugins/iunctis-emojis/images/tristesse/emo.png"
 register_emoji "emocry", "/plugins/iunctis-emojis/images/tristesse/emocry.gif"
 register_emoji "jlow", "/plugins/iunctis-emojis/images/tristesse/jlow.png"
 register_emoji "jordray", "/plugins/iunctis-emojis/images/tristesse/jordray.png"
