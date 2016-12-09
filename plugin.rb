@@ -245,6 +245,7 @@ register_emoji "mercimich", "/plugins/iunctis-emojis/images/autres/mercimich.png
 register_emoji "nope", "/plugins/iunctis-emojis/images/autres/nope.gif"
 register_emoji "shia", "/plugins/iunctis-emojis/images/autres/shia.gif"
 register_emoji "tapie", "/plugins/iunctis-emojis/images/autres/tapie.png"
+register_emoji "trap", "/plugins/iunctis-emojis/images/autres/trap.png"
 register_emoji "twss", "/plugins/iunctis-emojis/images/autres/twss.png"
 register_emoji "ztfamaz", "/plugins/iunctis-emojis/images/ztf/ztfamaz.gif"
 register_emoji "ztfareu", "/plugins/iunctis-emojis/images/ztf/ztfareu.png"
