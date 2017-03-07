@@ -8,6 +8,7 @@ enabled_site_setting :emoji_enabled
 
 register_emoji "aulas3", "/plugins/iunctis-emojis/images/rire/aulas3.png"
 register_emoji "aulas4", "/plugins/iunctis-emojis/images/rire/aulas4.png"
+register_emoji "blaguin", "/plugins/iunctis-emojis/images/rire/blaguin.png"
 register_emoji "clooney2", "/plugins/iunctis-emojis/images/rire/clooney2.png"
 register_emoji "facepalm", "/plugins/iunctis-emojis/images/rire/facepalm.gif"
 register_emoji "hamon1", "/plugins/iunctis-emojis/images/rire/hamon1.png"
