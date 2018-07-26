@@ -7,6 +7,7 @@
 enabled_site_setting :emoji_enabled
 
 register_emoji "arlette", "/plugins/iunctis-emojis/images/politique/arlette.png"
+register_emoji "benalla", "/plugins/iunctis-emojis/images/politique/benalla.png"
 register_emoji "berlusconi", "/plugins/iunctis-emojis/images/politique/berlusconi.png"
 register_emoji "berlusconi2", "/plugins/iunctis-emojis/images/politique/berlusconi2.png"
 register_emoji "bertrand1", "/plugins/iunctis-emojis/images/politique/bertrand1.png"
@@ -202,6 +203,7 @@ register_emoji "donj", "/plugins/iunctis-emojis/images/autres/donj.gif"
 register_emoji "drucker", "/plugins/iunctis-emojis/images/autres/drucker.gif"
 register_emoji "eac", "/plugins/iunctis-emojis/images/autres/eac.gif"
 register_emoji "eey", "/plugins/iunctis-emojis/images/autres/eey.gif"
+register_emoji "elmo", "/plugins/iunctis-emojis/images/autres/elmo.gif"
 register_emoji "emma", "/plugins/iunctis-emojis/images/autres/emma.gif"
 register_emoji "emma2", "/plugins/iunctis-emojis/images/autres/emma2.gif"
 register_emoji "emo", "/plugins/iunctis-emojis/images/autres/emo.png"
