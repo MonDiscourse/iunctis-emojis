@@ -176,7 +176,7 @@ after_initialize do
   register_emoji "jeanf", "/plugins/iunctis-emojis/images/sports/jeanf.png", "default"
   register_emoji "jhe", "/plugins/iunctis-emojis/images/sports/jhe.png", "default"
   register_emoji "jlow", "/plugins/iunctis-emojis/images/sports/jlow.png", "default"
-  register_emoji "jordan", "/plugins/iunctis-emojis/images/sports/jordan.png", "default"
+  register_emoji "jordan1", "/plugins/iunctis-emojis/images/sports/jordan.png", "default"
   register_emoji "jorjor", "/plugins/iunctis-emojis/images/sports/jorjor.png", "default"
   register_emoji "jorpass", "/plugins/iunctis-emojis/images/sports/jorpass.png", "default"
   register_emoji "jorpop", "/plugins/iunctis-emojis/images/sports/jorpop.png", "default"
