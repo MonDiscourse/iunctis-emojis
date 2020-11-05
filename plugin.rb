@@ -33,6 +33,7 @@ after_initialize do
   register_emoji "castaner4", "/plugins/iunctis-emojis/images/politique/castaner4.png", "default"
   register_emoji "castaner5", "/plugins/iunctis-emojis/images/politique/castaner5.png", "default"
   register_emoji "castex", "/plugins/iunctis-emojis/images/politique/castex.png", "default"
+  register_emoji "castex2", "/plugins/iunctis-emojis/images/politique/castex2.png", "default"
   register_emoji "champion", "/plugins/iunctis-emojis/images/politique/champion.png", "default"
   register_emoji "chirac", "/plugins/iunctis-emojis/images/politique/chirac.png", "default"
   register_emoji "chirac2", "/plugins/iunctis-emojis/images/politique/chirac2.png", "default"
