@@ -52,6 +52,7 @@ after_initialize do
   register_emoji "fillon4", "/plugins/iunctis-emojis/images/politique/fillon4.png", "default"
   register_emoji "fillon5", "/plugins/iunctis-emojis/images/politique/fillon5.png", "default"
   register_emoji "fillon6", "/plugins/iunctis-emojis/images/politique/fillon6.gif", "default"
+  register_emoji "fillon7", "/plugins/iunctis-emojis/images/politique/fillon7.gif", "default"
   register_emoji "grainderiz", "/plugins/iunctis-emojis/images/politique/grainderiz.png", "default"
   register_emoji "griveaux", "/plugins/iunctis-emojis/images/politique/griveaux.png", "default"
   register_emoji "griveaux2", "/plugins/iunctis-emojis/images/politique/griveaux2.png", "default"
