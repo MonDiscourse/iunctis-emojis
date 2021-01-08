@@ -149,6 +149,7 @@ after_initialize do
   # sports
   register_emoji "adams", "/plugins/iunctis-emojis/images/sports/adams.png", "default"
   register_emoji "adrian", "/plugins/iunctis-emojis/images/sports/adrian.png", "default"
+  register_emoji "avb", "/plugins/iunctis-emojis/images/sports/avb.png", "default"
   register_emoji "aulas", "/plugins/iunctis-emojis/images/sports/aulas.png", "default"
   register_emoji "aulas2", "/plugins/iunctis-emojis/images/sports/aulas2.png", "default"
   register_emoji "aulas3", "/plugins/iunctis-emojis/images/sports/aulas3.png", "default"
@@ -289,6 +290,7 @@ after_initialize do
   register_emoji "deon", "/plugins/iunctis-emojis/images/autres/deon.gif", "default"
   register_emoji "dicaprio", "/plugins/iunctis-emojis/images/autres/dicaprio.png", "default"
   register_emoji "dicaprio2", "/plugins/iunctis-emojis/images/autres/dicaprio2.png", "default"
+  register_emoji "dicaprio3", "/plugins/iunctis-emojis/images/autres/dicaprio3.png", "default"
   register_emoji "donj", "/plugins/iunctis-emojis/images/autres/donj.gif", "default"
   register_emoji "drucker", "/plugins/iunctis-emojis/images/autres/drucker.gif", "default"
   register_emoji "eac", "/plugins/iunctis-emojis/images/autres/eac.gif", "default"
