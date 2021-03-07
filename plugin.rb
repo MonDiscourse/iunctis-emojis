@@ -159,6 +159,7 @@ after_initialize do
   register_emoji "bengous2", "/plugins/iunctis-emojis/images/sports/bengous2.gif", "default"
   register_emoji "brady", "/plugins/iunctis-emojis/images/sports/brady.png", "default"
   register_emoji "brady2", "/plugins/iunctis-emojis/images/sports/brady2.png", "default"
+  register_emoji "cajoue", "/plugins/iunctis-emojis/images/sports/cajoue.png", "default"
   register_emoji "cena", "/plugins/iunctis-emojis/images/sports/cena.png", "default"
   register_emoji "choke", "/plugins/iunctis-emojis/images/sports/choke.png", "default"
   register_emoji "coude", "/plugins/iunctis-emojis/images/sports/coude.gif", "default"
@@ -241,6 +242,7 @@ after_initialize do
   register_emoji "zidane", "/plugins/iunctis-emojis/images/sports/zidane.gif", "default"
   register_emoji "zizou", "/plugins/iunctis-emojis/images/sports/zizou.png", "default"
   # autres
+  register_emoji "agatha", "/plugins/iunctis-emojis/images/autres/agatha.png", "default"
   register_emoji "ahahno", "/plugins/iunctis-emojis/images/autres/ahahno.gif", "default"
   register_emoji "arghh", "/plugins/iunctis-emojis/images/autres/arghh.gif", "default"
   register_emoji "binaire", "/plugins/iunctis-emojis/images/autres/binaire.png", "default"
