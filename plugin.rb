@@ -79,6 +79,7 @@ after_initialize do
   register_emoji "jlm3", "/plugins/iunctis-emojis/images/politique/jlm3.png", "default"
   register_emoji "jlm4", "/plugins/iunctis-emojis/images/politique/jlm4.png", "default"
   register_emoji "jlm5", "/plugins/iunctis-emojis/images/politique/jlm5.png", "default"
+  register_emoji "jlm6", "/plugins/iunctis-emojis/images/politique/jlm6.png", "default"
   register_emoji "juppe1", "/plugins/iunctis-emojis/images/politique/juppe1.png", "default"
   register_emoji "juppe2", "/plugins/iunctis-emojis/images/politique/juppe2.png", "default"
   register_emoji "lemaire1", "/plugins/iunctis-emojis/images/politique/lemaire1.png", "default"
