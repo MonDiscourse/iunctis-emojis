@@ -41,7 +41,6 @@ after_initialize do
   register_emoji "chirac", "/plugins/iunctis-emojis/images/politique/chirac.png", "default"
   register_emoji "chirac2", "/plugins/iunctis-emojis/images/politique/chirac2.png", "default"
   register_emoji "collomb", "/plugins/iunctis-emojis/images/politique/collomb.png", "default"
-  register_emoji "chut", "/plugins/iunctis-emojis/images/politique/chut.png", "default"
   register_emoji "darmanin1", "/plugins/iunctis-emojis/images/politique/darmanin1.png", "default"
   register_emoji "darmanin2", "/plugins/iunctis-emojis/images/politique/darmanin2.png", "default"
   register_emoji "darmanin3", "/plugins/iunctis-emojis/images/politique/darmanin3.png", "default"
