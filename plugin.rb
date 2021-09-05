@@ -314,6 +314,7 @@ after_initialize do
   register_emoji "dicaprio", "/plugins/iunctis-emojis/images/autres/dicaprio.png", "default"
   register_emoji "dicaprio2", "/plugins/iunctis-emojis/images/autres/dicaprio2.png", "default"
   register_emoji "dicaprio3", "/plugins/iunctis-emojis/images/autres/dicaprio3.png", "default"
+  register_emoji "dicaprio4", "/plugins/iunctis-emojis/images/autres/dicaprio4.gif", "default"
   register_emoji "donj", "/plugins/iunctis-emojis/images/autres/donj.gif", "default"
   register_emoji "drucker", "/plugins/iunctis-emojis/images/autres/drucker.gif", "default"
   register_emoji "dusse", "/plugins/iunctis-emojis/images/autres/dusse.png", "default"
