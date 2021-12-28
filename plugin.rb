@@ -5,8 +5,6 @@
 # url: https://github.com/MonDiscourse/iunctis-emojis
 # command: rake posts:remap[":jorpass:",":jorjor:"]
 
-enabled_site_setting :emoji_enabled
-
 after_initialize do
   #politique
   register_emoji "arlette", "/plugins/iunctis-emojis/images/politique/arlette.png", "default"
