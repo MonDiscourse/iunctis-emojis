@@ -2,7 +2,7 @@
 # about: iunctis emojis
 # version: 3.0
 # authors: Steven et Tyler (pas le chanteur)
-# url: https://github.com/mondiscourse/iunctis-emojis
+# url: https://github.com/MonDiscourse/iunctis-emojis
 # command: rake posts:remap[":jorpass:",":jorjor:"]
 
 enabled_site_setting :emoji_enabled
