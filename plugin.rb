@@ -281,7 +281,6 @@ after_initialize do
   register_emoji "mourinho2", "/plugins/iunctis-emojis/images/sports/mourinho2.gif", "sports"
   register_emoji "mutombo", "/plugins/iunctis-emojis/images/sports/mutombo.png", "sports"
   register_emoji "nasser", "/plugins/iunctis-emojis/images/sports/nasser.png", "sports"
-  register_emoji "nasser2", "/plugins/iunctis-emojis/images/sports/nasser2.png", "sports"
   register_emoji "neymar", "/plugins/iunctis-emojis/images/sports/neymar.png", "sports"
   register_emoji "neymar2", "/plugins/iunctis-emojis/images/sports/neymar2.gif", "sports"
   register_emoji "nwachukwu", "/plugins/iunctis-emojis/images/sports/nwachukwu.png", "sports"
