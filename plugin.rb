@@ -307,6 +307,8 @@ after_initialize do
   register_emoji "tacle", "/plugins/iunctis-emojis/images/sports/tacle.png", "sports"
   register_emoji "tapie", "/plugins/iunctis-emojis/images/sports/tapie.png", "sports"
   register_emoji "tebow", "/plugins/iunctis-emojis/images/sports/tebow.png", "sports"
+  register_emoji "tebow", "/plugins/iunctis-emojis/images/sports/textor1.png", "sports"
+  register_emoji "tebow", "/plugins/iunctis-emojis/images/sports/textor2.png", "sports"
   register_emoji "titi", "/plugins/iunctis-emojis/images/sports/titi.png", "sports"
   register_emoji "titi2", "/plugins/iunctis-emojis/images/sports/titi2.png", "sports"
   register_emoji "titi3", "/plugins/iunctis-emojis/images/sports/titi3.png", "sports"
